@@ -1,0 +1,10 @@
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\bin\Debug\Trabajo1.exe.config
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\bin\Debug\Trabajo1.exe
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\bin\Debug\Trabajo1.pdb
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\bin\Debug\Trabajo1.xml
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.Resources.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.exe
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.xml
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.pdb
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.vbprojResolveAssemblyReference.cache
