@@ -1,12 +1,14 @@
 ﻿Module Module1
 
     Sub Main()
-
+#Region "VariablesyObjetos"
         Dim empleado1 As New Logica.Empleado(110, "Pepe", "Argento", "La casa de pepe", 1234, 30000.0, "administrador")
         Dim empleado2 As New Logica.Empleado(111, "Damian", "Artigas", "La casa de Damian", 1222, 20000.0, "operario")
         Dim empleado3 As New Logica.Empleado(100, "Marcelo", "Tinelli", "Showmatch", 2020, 40000.0, "gerente")
         Dim op As Integer
         Dim totalA As Double
+#End Region
+#Region "Menu"
 
         Do
             Console.WriteLine("-----------------------")
@@ -38,7 +40,7 @@
                     Console.WriteLine("-----------------------")
             End Select
         Loop Until op = 0
-
+#End Region
 
 
 
