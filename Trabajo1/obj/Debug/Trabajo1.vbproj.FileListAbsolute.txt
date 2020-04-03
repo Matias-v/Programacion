@@ -8,3 +8,6 @@ C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Deb
 C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.xml
 C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.pdb
 C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\obj\Debug\Trabajo1.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\bin\Debug\Logica.dll
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\bin\Debug\Logica.pdb
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Trabajo1\bin\Debug\Logica.xml

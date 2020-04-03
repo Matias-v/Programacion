@@ -1,0 +1,9 @@
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\bin\Debug\Logica.xml
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\obj\Debug\Logica.xml
+C:\Users\Usuario\documents\visual studio 2017\Projects\Trabajo1\Logica\obj\Debug\Logica.pdb
