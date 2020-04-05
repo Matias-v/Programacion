@@ -2,9 +2,9 @@
 
     Sub Main()
 #Region "VariablesyObjetos"
-        Dim empleado1 As New Logica.Empleado(110, "Pepe", "Argento", "La casa de pepe", 1234, 30000.0, "administrador")
-        Dim empleado2 As New Logica.Empleado(111, "Damian", "Artigas", "La casa de Damian", 1222, 20000.0, "operario")
-        Dim empleado3 As New Logica.Empleado(100, "Marcelo", "Tinelli", "Showmatch", 2020, 40000.0, "gerente")
+        Dim empleado1 As New Logica.Empleado(110, "Pepe", "Mujica", "Av.Belloni 2213", 1234, 30000.0, "administrador")
+        Dim empleado2 As New Logica.Empleado(111, "Damian", "Rivero", "Av Rivera 4223", 1222, 20000.0, "operario")
+        Dim empleado3 As New Logica.Empleado(100, "Marcelo", "Gomez", "Av Italia 4412", 2020, 40000.0, "gerente")
         Dim op As Integer
         Dim totalA As Double
 #End Region
