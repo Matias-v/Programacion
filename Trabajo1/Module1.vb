@@ -41,13 +41,7 @@
             End Select
         Loop Until op = 0
 #End Region
-
-
-
-
         Console.ReadLine()
-
-
     End Sub
 
 End Module
