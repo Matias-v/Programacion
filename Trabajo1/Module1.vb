@@ -2,9 +2,9 @@
 
     Sub Main()
 #Region "VariablesyObjetos"
-        Dim empleado1 As New Logica.Empleado(110, "Pepe", "Argento", "La casa de pepe", 30000.0, "administrador")
-        Dim empleado2 As New Logica.Empleado(111, "Damian", "Artigas", "La casa de Damian", 20000.0, "operario")
-        Dim empleado3 As New Logica.Empleado(100, "Marcelo", "Tinelli", "Showmatch", 40000.0, "gerente")
+        Dim empleado1 As New Logica.Empleado(110, "Pepe", "Argento", "La casa de pepe", 981231, 26021212, 30000.0, "administrador")
+        Dim empleado2 As New Logica.Empleado(111, "Damian", "Artigas", "La casa de Damian", 999192, 26043002, 20000.0, "operario")
+        Dim empleado3 As New Logica.Empleado(100, "Marcelo", "Tinelli", "Showmatch", 992918, 26030432, 40000.0, "gerente")
         Dim op As Integer
         Dim totalA As Double
 #End Region
@@ -23,12 +23,12 @@
                 Case 1
                     Console.WriteLine("-----------------------")
                     Console.WriteLine("   Empleados     ")
-                    Console.Write(empleado1.ToString())
-                    telefonos(0,2)
-                    Console.Write(empleado2.ToString())
-                    telefonos(3,5)
-                    Console.Write(empleado3.ToString())
-                    telefonos(6,9)
+                    Console.WriteLine(empleado1.ToString())
+
+                    Console.WriteLine(empleado2.ToString())
+
+                    Console.WriteLine(empleado3.ToString())
+
                     Console.WriteLine("-----------------------")
                 Case 2
                     Console.WriteLine("-----------------------")

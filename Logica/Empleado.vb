@@ -3,16 +3,17 @@
     Private nom As String
     Private ape As String
     Private dir As String
-    Private telfs As Integer
+    Private tel1, tel2, tel3 As Integer
     Private sueldoMens As Double
     Private tipo As String
 
-    Public Sub New(ci As Integer, nom As String, ape As String, dir As String, telefonos As Integer, sueldoMens As Double, tipo As String)
+    Public Sub New(ci As Integer, nom As String, ape As String, dir As String, tel1 As Integer, tel2 As Integer, sueldoMens As Double, tipo As String)
         Me.ci = ci
         Me.nom = nom
         Me.ape = ape
         Me.dir = dir
-        Me.telfs = telefonos
+        Me.tel1 = tel1
+        Me.tel2 = tel2
         Me.sueldoMens = sueldoMens
         Me.tipo = tipo
 
@@ -54,15 +55,23 @@
         End Set
     End Property
 
-    Public Property propTelfs As Integer
+    Public Property propTel1 As Integer
         Get
-            Return telfs
+            Return tel1
         End Get
         Set(value As Integer)
-            Me.telfs = telfs
+            Me.tel1 = tel1
         End Set
     End Property
 
+    Public Property propTel2 As Integer
+        Get
+            Return tel2
+        End Get
+        Set(value As Integer)
+            Me.tel2 = tel2
+        End Set
+    End Property
     Public Property propSueldoMens As Double
         Get
             Return sueldoMens
@@ -103,7 +112,7 @@
 
     Public Function ToString() As String
 
-        Return "Empleado:" & propNom & " " & propApe & " -Tipo:" & propTipo & " -Sueldo mensual:" & propSueldoMens & " -Direccion:" & propDir & " -Telefono:" & propTelfs
+        Return "Empleado:" & propNom & " " & propApe & " -Tipo:" & propTipo & " -Sueldo mensual:" & propSueldoMens & " -Direccion:" & propDir & " -Telefonos:" & propTel1 & propTel2
 
     End Function
 

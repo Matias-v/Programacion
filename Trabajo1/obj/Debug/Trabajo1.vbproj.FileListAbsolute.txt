@@ -18,3 +18,10 @@ C:\Users\Usuario\Source\Repos\Programacion\Trabajo1\obj\Debug\Trabajo1.vbproj.Co
 C:\Users\Usuario\Source\Repos\Programacion\Trabajo1\obj\Debug\Trabajo1.exe
 C:\Users\Usuario\Source\Repos\Programacion\Trabajo1\obj\Debug\Trabajo1.xml
 C:\Users\Usuario\Source\Repos\Programacion\Trabajo1\obj\Debug\Trabajo1.pdb
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.exe
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.xml
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.pdb
