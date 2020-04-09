@@ -25,3 +25,11 @@ C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Program
 C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.exe
 C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.xml
 C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.pdb
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\bin\Debug\Trabajo1.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\bin\Debug\Trabajo1.exe
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\bin\Debug\Trabajo1.pdb
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\bin\Debug\Trabajo1.xml
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\bin\Debug\Logica.dll
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\bin\Debug\Logica.pdb
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\bin\Debug\Logica.xml
+C:\Users\Usuario\Documents\Visual Studio 2019\Code Snippets\Visual Basic\Programacion\Trabajo1\obj\Debug\Trabajo1.vbproj.CopyComplete

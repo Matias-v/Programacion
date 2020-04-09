@@ -112,7 +112,7 @@
 
     Public Function ToString() As String
 
-        Return "Empleado:" & propNom & " " & propApe & " -Tipo:" & propTipo & " -Sueldo mensual:" & propSueldoMens & " -Direccion:" & propDir & " -Telefonos:" & propTel1 & propTel2
+        Return "Empleado:" & propNom & " " & propApe & " -Tipo:" & propTipo & " -Sueldo mensual:" & propSueldoMens & " -Direccion:" & propDir & " -Telefonos:" & propTel1 & " y " & propTel2
 
     End Function
 
